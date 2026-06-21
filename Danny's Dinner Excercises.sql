@@ -102,7 +102,7 @@ SELECT
 	GROUP BY  customer_id
     ORDER BY  customer_id;
     
-/* What is the total items and amount spent 
+/* 8 -  What is the total items and amount spent 
 for each member before they became a member? */
     
 	SELECT 
